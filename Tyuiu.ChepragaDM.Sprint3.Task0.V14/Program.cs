@@ -1,7 +1,7 @@
 ﻿using Tyuiu.ChepragaDM.Sprint3.Task0.V14.Lib;
 
 
-namespace Tyuiu.ChepragaDM.Sprint4.Task0.V14
+namespace Tyuiu.ChepragaDM.Sprint3.Task0.V14
 {
     class Program
     {
