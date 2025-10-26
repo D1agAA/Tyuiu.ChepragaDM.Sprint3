@@ -26,7 +26,7 @@ namespace Tyuiu.ChepragaDM.Sprint4.Task0.V14
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
 
-
+             
 
             int x, y, z;
             x = 1;

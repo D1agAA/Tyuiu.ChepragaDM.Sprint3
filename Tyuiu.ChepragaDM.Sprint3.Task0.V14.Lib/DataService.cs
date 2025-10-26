@@ -7,7 +7,7 @@ namespace Tyuiu.ChepragaDM.Sprint3.Task0.V14.Lib
         {
             double result = 1;
             int k;
-            for (k = startValue; k <= stopValue; k++)
+            for (k = startValue; k <= stopValue; k++) 
             {
                 result = result * (Math.Pow(1/Math.Pow(k, value), -1));
 
