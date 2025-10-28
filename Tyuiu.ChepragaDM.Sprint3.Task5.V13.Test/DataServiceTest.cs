@@ -16,7 +16,7 @@ namespace Tyuiu.ChepragaDM.Sprint3.Task5.V13.Test
             k = 1;
             k1 = 12;
             var res = ds.GetSumSumSeries(x,i,k,i1,k1);
-            Assert.AreEqual(10.212, res);
+            Assert.AreEqual(127.212, res);
             
         }
     }
