@@ -12,7 +12,7 @@ namespace Tyuiu.ChepragaDM.Sprint3.Task7.V18.Lib
             int count = 0;
             for (int i = startValue;i <= stopValue;i++)
             {
-                y = Math.Round((((2 * i - 1) / (Math.Cos(i) + i)) + 5), 2);
+                y = Math.Round(((((2 * i) - 3) / (Math.Cos(i) + i)) + 5), 2);
                 Array[count] = y;
                 count++;
             }

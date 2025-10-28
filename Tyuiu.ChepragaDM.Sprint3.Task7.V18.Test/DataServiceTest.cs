@@ -16,17 +16,17 @@ namespace Tyuiu.ChepragaDM.Sprint3.Task7.V18.Test
             double[] wait;
             wait = new double[len];
 
-            wait[0] = 2.33;
-            wait[1] = 1.93;
-            wait[2] = 1.75;
-            wait[3] = 2.07;
-            wait[4] = 6.53;
-            wait[5] = -1.00;
-            wait[6] = 0.65;
-            wait[7] = 1.89;
-            wait[8] = 2.49;
-            wait[9] = 2.09;
-            wait[10] = 1.70;
+            wait[0] = 7.76;
+            wait[1] = 7.36;
+            wait[2] = 7.26;
+            wait[3] = 7.9;
+            wait[4] = 15.88;
+            wait[5] = 2.0;
+            wait[6] = 4.35;
+            wait[7] = 5.63;
+            wait[8] = 6.49;
+            wait[9] = 6.49;
+            wait[10] = 6.32;
 
             double[] res;
             res = new double[len];
