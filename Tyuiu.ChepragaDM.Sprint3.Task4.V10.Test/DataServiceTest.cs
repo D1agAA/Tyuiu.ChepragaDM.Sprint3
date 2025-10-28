@@ -11,7 +11,7 @@ namespace Tyuiu.ChepragaDM.Sprint3.Task4.V10.Test
             DataService ds = new DataService();
             int start = -5;
             int end = 5;
-            var wait = 0;
+            var wait = 0.014;
             var res = ds.Calculate(start, end);
             Assert.AreEqual(wait, res);
         }
